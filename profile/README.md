@@ -2,7 +2,7 @@
 
 ![dsa++ banner](../assets/banner.png)
 
-Library for data structures and algorithms.
+Library for data structures and algorithms in Typescript.
 
 ---
 
